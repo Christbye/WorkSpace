@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ###民饴汇主要功能流程
 
@@ -67,3 +68,6 @@
 [1]: http://minyihui.com "民饴汇商城"
 [2]: http://minyihui.com/user.php "登陆页面"
 [3]: http://minyihui.com/article.php?id=23 "兑换流程"
+=======
+#mantisbt-mobile
+>>>>>>> 936e09460a6ece22cb88c17ed869389d2b90faff
